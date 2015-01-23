@@ -9,14 +9,6 @@ package abstractions;
  *
  * @author nagnello
  */
-public class Abstractions {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-        
-    }
+public class WritingUtensil extends Utensil{
     
 }
