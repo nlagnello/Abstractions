@@ -9,6 +9,6 @@ package abstractions;
  *
  * @author nagnello
  */
-public class Utensil {
+public abstract class Utensil {
     
 }

@@ -9,6 +9,6 @@ package abstractions;
  *
  * @author nagnello
  */
-public class Structure {
+public abstract class Structure {
     
 }

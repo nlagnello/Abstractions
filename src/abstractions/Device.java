@@ -9,6 +9,6 @@ package abstractions;
  *
  * @author nagnello
  */
-public class Device {
+public abstract class Device {
     
 }

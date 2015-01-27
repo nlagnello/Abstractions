@@ -9,6 +9,6 @@ package abstractions;
  *
  * @author nagnello
  */
-public class CellularPhone extends CommunicationDevice{
+public abstract class CellularPhone extends CommunicationDevice{
     
 }

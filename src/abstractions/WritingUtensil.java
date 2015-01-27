@@ -9,6 +9,6 @@ package abstractions;
  *
  * @author nagnello
  */
-public class WritingUtensil extends Utensil{
+public abstract class WritingUtensil extends Utensil{
     
 }

@@ -9,6 +9,6 @@ package abstractions;
  *
  * @author nagnello
  */
-public class Desk extends Furniture{
+public abstract class Desk extends Furniture{
     
 }

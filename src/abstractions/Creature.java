@@ -9,6 +9,6 @@ package abstractions;
  *
  * @author nagnello
  */
-public class Creature extends ImaginaryBeing{
+public abstract class Creature extends ImaginaryBeing{
     
 }
